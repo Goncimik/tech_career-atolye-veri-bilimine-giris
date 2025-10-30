@@ -40,10 +40,15 @@ Bu çalışmayı,
 
 Dilediğin gibi kullan, düzenle, geliştir ve paylaş. 🌍
 
-## 💃 Hazırlayan: GOGO
+## ✨ Teşekkür
 
 ☕ “Sade kahve, sade kod; ama derin düşünce.”
 
+“Akademik düşün, deneyle, ölç ve yinele.”
+
+Keyifli kodlamalar, GOGO! 🚀 
+
+💃 Hazırlayan: GOGO
 30 Ekim 2025
 
  

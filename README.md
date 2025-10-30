@@ -37,11 +37,13 @@ Veri bilimi + kahve + dans = GOGO tarzı üretkenlik ☕💃💻
 ## 📄 Lisans
 
 Bu çalışmayı,
+
 Dilediğin gibi kullan, düzenle, geliştir ve paylaş. 🌍
 
 ## 💃 Hazırlayan: GOGO
 
 ☕ “Sade kahve, sade kod; ama derin düşünce.”
+
 30 Ekim 2025
 
  

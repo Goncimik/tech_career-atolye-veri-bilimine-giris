@@ -44,11 +44,10 @@ Dilediğin gibi kullan, düzenle, geliştir ve paylaş. 🌍
 
 ☕ “Sade kahve, sade kod; ama derin düşünce.”
 
-“Akademik düşün, deneyle, ölç ve yinele.”
+“Akademik düşün, dene, ölç ve yinele.”
 
-Keyifli kodlamalar, GOGO! 🚀 
+Keyifli kodlamalar, 💃 GOGO! 🚀 
 
-💃 Hazırlayan: GOGO
 30 Ekim 2025
 
  

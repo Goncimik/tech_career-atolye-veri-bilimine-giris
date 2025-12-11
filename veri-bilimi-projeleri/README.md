@@ -48,8 +48,7 @@ Bu ödevde Matplotlib ve Seaborn kullanılarak şu grafikler oluşturulmuştur:
 
 ---
 
-## 🎉💻 Mutlu Kodlamalar
-###            gogo.🪄🧩💫
+## 🎉💻 Mutlu Kodlamalar,  gogo.🪄🧩💫
 
 ---
 

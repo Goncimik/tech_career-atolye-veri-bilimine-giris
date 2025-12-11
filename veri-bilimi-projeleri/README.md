@@ -1,4 +1,4 @@
-# Techcareer Veri Bilimi Atölyesi – Ödev Projesi
+# Techcareer Veri Bilimi Atölyesi – Bitirme Projesi
 
 Bu repo, Techcareer.net Atölye: Veri Bilimi eğitimi kapsamında verilen iki temel ödevin çözümünü ve ilgili veri setlerini içermektedir. 
 Çalışmalar tamamen Python, Pandas, Matplotlib ve Seaborn kullanılarak hazırlanmıştır.
@@ -39,7 +39,7 @@ Bu ödevde Matplotlib ve Seaborn kullanılarak şu grafikler oluşturulmuştur:
 
 ## Kullanılan Teknolojiler
 
-- Python 3.x  
+- Python
 - NumPy  
 - Pandas  
 - Matplotlib  
@@ -48,13 +48,11 @@ Bu ödevde Matplotlib ve Seaborn kullanılarak şu grafikler oluşturulmuştur:
 
 ---
 
-## Çalıştırma
+## Not
 
-Projeyi çalıştırmak için:
-
-1. Depoyu klonlayın:
-```bash
-git clone <repo-link>
+Bu çalışma, techcareer.net atolye veri bilimi kapsamında hazırlanmıştır.
 
 ---
+
+## 🎉💻 Mutlu Kodlamalar gogo! 🪄🧩💫
 

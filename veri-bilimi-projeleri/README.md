@@ -48,12 +48,10 @@ Bu ödevde Matplotlib ve Seaborn kullanılarak şu grafikler oluşturulmuştur:
 
 ---
 
-## Not
-
-Bu çalışma, techcareer.net atolye veri bilimi kapsamında hazırlanmıştır.
+## 🎉💻 Mutlu Kodlamalar
+###            gogo.🪄🧩💫
 
 ---
 
-## 🎉💻 Mutlu Kodlamalar
-###           gogo.🪄🧩💫
+
 

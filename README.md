@@ -1,11 +1,12 @@
-## 🎓✨ GOGO ile Veri Bilimi
+##  GOGO ile Veri Bilimi 🎓✨
 
 Bu proje, 
+techcareer.net Atölye: Veri Bilimi kapsamında hazırlanmıştır.
 Python’da  veri bilimine kısa bir bakış açısı sağlamaktadır. 🎯  
 
 
 ## 🧠 Proje Özeti
-Veri bilimi + kahve + dans = GOGO tarzı üretkenlik ☕💃💻
+Veri bilimi + kahve + kod = GOGO  ☕💃💻
 
 
 ## 📄 Lisans
@@ -23,7 +24,6 @@ Dilediğin gibi kullan, düzenle, geliştir ve paylaş. 🌍
 
 Keyifli kodlamalar, 💃 GOGO! 🚀 
 
-30 Ekim 2025
 
  
 
